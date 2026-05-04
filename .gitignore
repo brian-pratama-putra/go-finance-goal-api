@@ -1,0 +1,6 @@
+DOKUMENTASI.md
+vir-go-finance-goal-api/
+*.exe
+*.test
+.env
+log/
